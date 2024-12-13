@@ -9,7 +9,7 @@ O objetivo é apresentar o MVP consistindo em dois projetos:
 - Backend
 ---
 
-**Este conteúdo foca nos detalhes de uso do projeto do FrontEnd.**
+**Este conteúdo foca nos detalhes de uso do projeto do Frontend.**
 
 ---
 ## Frontend
@@ -25,7 +25,7 @@ O Backend foi feito usando Python: flask como servidor web e sqlite como banco d
 Uma REST API é disponibilizada pelo Backend para uso pelo Frontend.
 
 ---
-## Como executar o FrontEnd
+## Como executar o Frontend
 
 Faça download do projeto
  - abra o arquivo *index.html* no seu browser (idealmente inicie o Backend usando as instruções do *README* disponível no repositório do backend)
